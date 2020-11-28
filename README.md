@@ -12,5 +12,5 @@ Actually, I'm a **Full Stack Developer** and I like so much! 💗
 
 I hope we can meet and work together! 🙌
 
-🔥 Last Project --> http://https://astridtoys.herokuapp.com/ 
+🔥 **Last Project** --> http://https://astridtoys.herokuapp.com/ 
 
