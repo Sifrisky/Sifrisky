@@ -1,5 +1,5 @@
 
-![](docs/sifrina.gif)
+![](docs/sifri.gif)
 
 ### Hello, I'm Astrid 👋 💛 
 
