@@ -7,11 +7,11 @@
  
 I am an **engineer** by profession and **designer** by vocation! <3 
 
-Actually, I'm a **Full Stack Developer** and I like so much! 💗
+Currently, I'm studying and learning about **Full Stack Web Developer** and I like so much! 💗
+
+I hope we can meet and work together! 
 
 
-
-I hope we can meet and work together! 🙌
 
 🔥 **Last Project** --> http://astridtoys.herokuapp.com/ 
 
