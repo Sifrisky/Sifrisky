@@ -1,6 +1,4 @@
 
-![](docs/sifri.gif)
-
 ### Hello, I'm Astrid 👋 💛 
 
 ✨ I love create new things, teach and help people to growing up! ✨ 
