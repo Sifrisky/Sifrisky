@@ -12,6 +12,8 @@
 Currenttly, I'm a studying and learning about **Full Stack Developer** and I like so much! 💗
 
 
+<img align="right" src="docs/SifriSky.png" alt="Sifrisky-Coding" width="200">
+
 - 🔭 I just launched my first blog article: [Become A Code SuperHero!][link]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -19,8 +21,6 @@ Currenttly, I'm a studying and learning about **Full Stack Developer** and I lik
 - ⚡ Fun fact: I love to fly and **I think I am funny xD** 
 - 📫 How to reach me **astrid.amg@gmail.com**
 - 👨‍💻 You can also check out my portfolio at [astrid](https://Sifrisky.github.io/astrid/)
-
-<img align="right" src="docs/SifriSky.png" alt="Sifrisky-Coding" width="200">
 
 
 <h3 align="left">Connect with me:</h3>
@@ -46,6 +46,8 @@ Currenttly, I'm a studying and learning about **Full Stack Developer** and I lik
 <img align="left" alt="figma" width="40" height="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
 <img align="left" alt="photoshop" width="40" height="40" src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg"/> 
 
+<br>
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sifrisky&show_icons=true&locale=en&layout=compact" alt="Sifrisky" /></p>
 
