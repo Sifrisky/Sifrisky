@@ -4,20 +4,20 @@
  
 <h1 align="center">Hi 👋 , I'm Astrid 💛 </h1>
 <h3 align="center">A Girl trying to Figure-Out Stuff!! </h3>
+<br>
 
 ## I'm a Engineer by profession and Designer by vocation!!!
+
+<img align="right" src="docs/SifriSky.png" alt="Sifrisky-Coding" width="200">
 
 (I'm a skydiving girl, and teacher, and Developer, and ... xD )
 
 Currenttly, I'm a studying and learning about **Full Stack Developer** and I like so much! 💗
 
 
-<img align="right" src="docs/SifriSky.png" alt="Sifrisky-Coding" width="200">
-
 - 🔭 I just launched my first blog article: [Become A Code SuperHero!][link]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-<!-- - 🥅 2020 Goals: Contribute more to Open Source projects -->
 - ⚡ Fun fact: I love to fly and **I think I am funny xD** 
 - 📫 How to reach me **astrid.amg@gmail.com**
 - 👨‍💻 You can also check out my portfolio at [astrid](https://Sifrisky.github.io/astrid/)
@@ -42,20 +42,19 @@ Currenttly, I'm a studying and learning about **Full Stack Developer** and I lik
 <img align="left" alt="Node.js" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="GitHub" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="60" height="60" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="figma" width="40" height="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
 <img align="left" alt="photoshop" width="40" height="40" src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg"/> 
 
 <br>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sifrisky&show_icons=true&locale=en&layout=compact" alt="Sifrisky" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sifrisky&show_icons=true&locale=en&layout=compact" alt="Sifrisky" /></p>
 
 <br>
 <br>
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sifrisky&show_icons=true&locale=en" alt="Sifrisky" /></p> -->
-
 
 
  I hope we can meet and work together! 🙌
