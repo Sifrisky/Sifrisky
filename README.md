@@ -11,6 +11,7 @@
 
 Currenttly, I'm a studying and learning about **Full Stack Developer** and I like so much! 💗
 
+
 - 🔭 I just launched my first blog article: [Become A Code SuperHero!][link]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -19,14 +20,19 @@ Currenttly, I'm a studying and learning about **Full Stack Developer** and I lik
 - 📫 How to reach me **astrid.amg@gmail.com**
 - 👨‍💻 You can also check out my portfolio at [astrid](https://Sifrisky.github.io/astrid/)
 
-<p align="right"> <img src="docs/SifriSky.png" alt="Sifrisky-Coding" width="150"/> </p>
+<p align="right" img src="docs/SifriSky.png" alt="Sifrisky-Coding" width="150"> </p>
+
 
 **************************************************************************************
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/AstridAdriiana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="astrid-medina" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/astrid-medina" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="astrid-medina" height="30" width="40" /></a>
+
 <a href="https://instagram.com/astridadriana_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="astrid-medina" height="30" width="40" /></a>
+
 
 ************************************************************************************
 
@@ -50,6 +56,6 @@ Currenttly, I'm a studying and learning about **Full Stack Developer** and I lik
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sifrisky&show_icons=true&locale=en" alt="Sifrisky" /></p> -->
 
 
-<p> I hope we can meet and work together! 🙌<p> <br>
+ I hope we can meet and work together! 🙌
 
  🔥 **Last Project** --> http://astridtoys.herokuapp.com/ 
