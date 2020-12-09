@@ -1,5 +1,5 @@
 
-![](docs/banner1.png)
+![](docs/banner2.png)
 
  
 <h1 align="center">Hi 👋 , I'm Astrid 💛 </h1>
@@ -20,10 +20,8 @@ Currenttly, I'm a studying and learning about **Full Stack Developer** and I lik
 - 📫 How to reach me **astrid.amg@gmail.com**
 - 👨‍💻 You can also check out my portfolio at [astrid](https://Sifrisky.github.io/astrid/)
 
-<img align="right" src="docs/SifriSky.png" alt="Sifrisky-Coding" width="150">
+<img align="right" src="docs/SifriSky.png" alt="Sifrisky-Coding" width="200">
 
-
-**************************************************************************************
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,7 +30,6 @@ Currenttly, I'm a studying and learning about **Full Stack Developer** and I lik
 <a href="https://instagram.com/astridadriana_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="astrid-medina" height="30" width="40" /></a> </p>
 
 
-************************************************************************************
 
 <h3 align="left">Code language and tools:</h3> 
 
@@ -52,10 +49,12 @@ Currenttly, I'm a studying and learning about **Full Stack Developer** and I lik
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sifrisky&show_icons=true&locale=en&layout=compact" alt="Sifrisky" /></p>
 
+<br>
+<br>
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sifrisky&show_icons=true&locale=en" alt="Sifrisky" /></p> -->
 
-***************************************************************************************************************
+
 
  I hope we can meet and work together! 🙌
 
