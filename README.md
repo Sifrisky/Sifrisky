@@ -2,18 +2,21 @@
 ![](docs/banner1.png)
 
  
-<h1 align="center">Hi 👋 , I'm Astrid </h1>
-<h3 align="center">A Girl trying to Figure-Out Stuff!! 💛</h3>
+<h1 align="center">Hi 👋 , I'm Astrid 💛 </h1>
+<h3 align="center">A Girl trying to Figure-Out Stuff!! </h3>
 
-## I'm a skydiving girl, teacher, Developer, Engineer by profession and Designer by vocation!!!
+## I'm a Engineer by profession and Designer by vocation!!!
 
-Actually, I'm a **Full Stack Developer** and I like so much! 💗
+(I'm a skydiving girl, and teacher, and Developer, and ... xD )
+
+Currenttly, I'm a studying and learning about **Full Stack Developer** and I like so much! 💗
 
 - 🔭 I just launched my first blog article: [Become A Code SuperHero!][link]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to fly and I think that I am Funny too xD / 
+
 
 
 
