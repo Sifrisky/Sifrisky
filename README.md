@@ -58,7 +58,9 @@ but, let me introduce myself...
 <br>
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sifrisky&show_icons=true&locale=en&layout=compact" alt="Sifrisky"/>
+
+<p>&nbsp;<img align="center" alt="Sifrisky" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sifrisky&show_icons=true&locale=en&layout=compact"/></p>
+
 
 <br>
 <!--
