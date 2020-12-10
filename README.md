@@ -8,7 +8,7 @@
 
 ## I'm a Engineer by profession and Designer by vocation!!!
 
-<img align="right" src="docs/sifri.jpeg" alt="Sifrisky-Coding" width="200">
+<img align="right" src="docs/sifri.jpeg" alt="Sifrisky-Coding" width="300">
 
 ✨ I love create new things, teach and help people to growing up! ✨ 
 
@@ -28,7 +28,7 @@ Currenttly, I'm a studying and learning about **Full Stack Developer** and I lik
 <p align="left">
 <a href="https://twitter.com/AstridAdriiana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="astrid-medina" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/astrid-medina" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="astrid-medina" height="30" width="40" /></a>
-<a href="https://instagram.com/astridadriana_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="astrid-medina" height="30" width="40" /></a> </p>
+<a href="https://instagram.com/astridadriana_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="astrid-medina" height="30" width="40"  color="pink" /></a> </p>
 
 
 
