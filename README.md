@@ -68,4 +68,5 @@ but, let me introduce myself...
 <h3 align="center">I hope we can meet and work together! 🙌</h3>
  
 
- 🔥 **Last Project** --> http://astridtoys.herokuapp.com/ 
+ <h3 align="center"> 🔥 Last Project: http://astridtoys.herokuapp.com/ </h3>
+
