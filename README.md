@@ -8,7 +8,7 @@
 
 ## I'm a Engineer by profession and Designer by vocation!!!
 
-<img align="right" src="docs/sifri.png" alt="Sifrisky-Coding" width="200">
+<img align="right" src="docs/sifri.jpeg" alt="Sifrisky-Coding" width="200">
 
 ✨ I love create new things, teach and help people to growing up! ✨ 
 
