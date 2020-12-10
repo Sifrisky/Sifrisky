@@ -13,6 +13,7 @@
 
 Currenttly, 
 
+
 I'm a studying and learning about **Full Stack Developer** and I like so much!💗
 
 
@@ -21,17 +22,17 @@ but, let me introduce myself...
 
 - 👩🏻‍🎓 I'm a Process Engineer and I have a master degree in Control Engineering and Process Automation
 - 🚀 I'm a skydiver girl
-- 💡 Idea is my Favorite word!
-- 🍕 Pizza lovers!
+- 🍕 I'm a Pizza lover!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
+- 💡 Idea is my Favorite word!
 - ⚡ Fun fact: I love to fly and **I think I am funny xD**
 - 🔭 I just launched my first blog article: [Become A Code SuperHero!][link]!
 - 📫 How to reach me **astrid.amg@gmail.com**
 - 👨‍💻 You can also check out my portfolio at [astrid](https://Sifrisky.github.io/astrid/)
 
 
-<h3 align="left"> Connect with me </h3>
+<h3 align="left"> ⚡ Connect with me </h3>
 <p align="left">
 <a href="https://twitter.com/AstridAdriiana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="astrid-medina" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/astrid-medina" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="astrid-medina" height="30" width="40" /></a>
@@ -60,11 +61,9 @@ but, let me introduce myself...
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sifrisky&show_icons=true&locale=en&layout=compact" alt="Sifrisky" /></p>
 
 <br>
-<br>
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sifrisky&show_icons=true&locale=en" alt="Sifrisky" /></p> -->
 
-
- # I hope we can meet and work together! # 🙌
+ # I hope we can meet and work together! 🙌
 
  🔥 **Last Project** --> http://astridtoys.herokuapp.com/ 
