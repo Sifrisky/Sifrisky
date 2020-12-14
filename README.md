@@ -14,7 +14,7 @@
 Currenttly, 
 
 
-I'm a studying and learning about **Full Stack Developer** and I like so much!💗
+I'm a studying and learning about **Frontend Developer** and I like so much!💗
 
 
 but, let me introduce myself... 
