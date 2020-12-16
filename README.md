@@ -27,7 +27,7 @@ but, let me introduce myself...
 - 👯 I’m looking to collaborate with other content creators
 - 💡 Idea is my Favorite word!
 - ⚡ Fun fact: I love to fly and **I think I am funny xD**
-- 🔭 I just launched my first blog article: [Become A Code SuperHero!][link]!
+<!-- 🔭 I just launched my first blog article: [Become A Code SuperHero!][link]!-->
 - 📫 How to reach me **astrid.amg@gmail.com**
 - 👨‍💻 You can also check out my portfolio at [astrid](https://Sifrisky.github.io/astrid/)
 
