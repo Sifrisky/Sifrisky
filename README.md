@@ -63,8 +63,8 @@ but, let me introduce myself...
 
 
 <br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sifrisky&show_icons=true&locale=en" alt="Sifrisky" /></p> 
+<!--
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sifrisky&show_icons=true&locale=en" alt="Sifrisky" /></p> -->
 
 
 <h3 align="center">I hope we can meet and work together! 🙌</h3>
