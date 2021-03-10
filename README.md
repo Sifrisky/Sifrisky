@@ -26,7 +26,7 @@ but, let me introduce myself...
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 💡 Idea is my Favorite word!
-- ⚡ Fun fact: I love to fly and **I think I am funny xD**
+- ⚡ Fun fact: **I think I am funny xD**
 <!-- 🔭 I just launched my first blog article: [Become A Code SuperHero!][link]!-->
 - 📫 How to reach me **astrid.amg@gmail.com**
 - 👨‍💻 You can also check out my portfolio at [astrid](https://Sifrisky.github.io/astrid/)
@@ -63,8 +63,8 @@ but, let me introduce myself...
 
 
 <br>
-<!--
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sifrisky&show_icons=true&locale=en" alt="Sifrisky" /></p> -->
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sifrisky&show_icons=true&locale=en" alt="Sifrisky" /></p> 
 
 
 <h3 align="center">I hope we can meet and work together! 🙌</h3>
