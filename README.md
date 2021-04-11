@@ -2,19 +2,20 @@
 ![](docs/banner1.png)
 
  
-<h1 align="center">Hi 👋, I'm Astrid </h1>
-<h3 align="center">A Girl trying to Figure-Out Stuff!! </h3>
+<h1 align="center">Hi humans! 👋 I'm Astrid </h1>
+<h3 align="center">A Girl who just Figure-Out that she wants to be a programmer! </h3>
 <br>
 
-<img align="right" src="docs/sifri.jpeg" alt="Sifrisky-Coding" width="300">
 
-✨ I love create new things, teach and help people to growing up! ✨ 
+✨ I'm courius, hungry and always learning!✨ 
+
+<img align="center" src="docs/sifri.jpeg" alt="Sifrisky-Coding" width="150">
 
 
 Currenttly, 
 
 
-I'm a studying and learning about **Frontend Developer** and I like so much!💗
+I'm learning about Full Stack Java! 💗
 
 
 but, let me introduce myself... 
@@ -27,7 +28,7 @@ but, let me introduce myself...
 - 👯 I’m looking to collaborate with other content creators
 - 💡 Idea is my Favorite word!
 - ⚡ Fun fact: **I think I am funny xD**
-<!-- 🔭 I just launched my first blog article: [Become A Code SuperHero!][link]!-->
+- 🔭 I just launched my first blog notes: [Sifri's Notes][link]
 - 📫 How to reach me **astrid.amg@gmail.com**
 - 👨‍💻 You can also check out my portfolio at [astrid](https://Sifrisky.github.io/astrid/)
 
