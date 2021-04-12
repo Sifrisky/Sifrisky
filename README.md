@@ -7,9 +7,9 @@
 <br>
 
 
-✨ I'm curious, hungry and always learning!✨ 
+<h3 align="center">✨ I'm curious, hungry and always learning!✨ </h3>
 
-<img align="right" src="docs/sifri.jpeg" alt="Sifrisky-Coding" width="180">
+<img align="right" src="docs/sifri.jpeg" alt="Sifrisky-Coding" width="220">
 
 
 Currenttly, I'm learning about Full Stack Java! 💗
