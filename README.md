@@ -7,7 +7,7 @@
 <br>
 
 
-✨ I'm courius, hungry and always learning!✨ 
+✨ I'm curious, hungry and always learning!✨ 
 
 <img align="center" src="docs/sifri.jpeg" alt="Sifrisky-Coding" width="180">
 
