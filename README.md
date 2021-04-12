@@ -9,13 +9,10 @@
 
 ✨ I'm curious, hungry and always learning!✨ 
 
-<img align="center" src="docs/sifri.jpeg" alt="Sifrisky-Coding" width="180">
+<img align="right" src="docs/sifri.jpeg" alt="Sifrisky-Coding" width="180">
 
 
-Currenttly, 
-
-
-I'm learning about Full Stack Java! 💗
+Currenttly, I'm learning about Full Stack Java! 💗
 
 
 but, let me introduce myself... 
