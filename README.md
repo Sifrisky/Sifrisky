@@ -9,7 +9,7 @@
 
 ✨ I'm courius, hungry and always learning!✨ 
 
-<img align="center" src="docs/sifri.jpeg" alt="Sifrisky-Coding" width="150">
+<img align="center" src="docs/sifri.jpeg" alt="Sifrisky-Coding" width="180">
 
 
 Currenttly, 
@@ -22,14 +22,14 @@ but, let me introduce myself...
 
 
 - 👩🏻‍🎓 I'm a Process Engineer and I have a master degree in Control Engineering and Process Automation
-- 🚀 I'm a skydiver girl
-- 🍕 I'm a Pizza lover!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 💡 Idea is my Favorite word!
-- ⚡ Fun fact: **I think I am funny xD**
-- 🔭 I just launched my first blog notes: [Sifri's Notes][link]
-- 📫 How to reach me **astrid.amg@gmail.com**
+     - 🚀 I'm a skydiver girl
+           - 🍕 I'm a Pizza lover!
+               - 🌱 I’m currently learning everything 🤣
+                           - 👯 I’m looking to collaborate with other content creators
+                           - 💡 Idea is my Favorite word!
+                     - ⚡ Fun fact: **I think I am funny xD**
+             - 🔭 I just launched my first blog notes: [Sifri's Notes][link]
+      - 📫 How to reach me **astrid.amg@gmail.com**
 - 👨‍💻 You can also check out my portfolio at [astrid](https://Sifrisky.github.io/astrid/)
 
 
