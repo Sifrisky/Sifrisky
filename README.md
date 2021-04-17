@@ -19,7 +19,8 @@ Currenttly, I'm learning about Full Stack Java! 💗
 but, let me introduce myself... 
 
 
-- 👩🏻‍🎓 I'm a Process Engineer and I have a master degree in Control Engineering and Process Automation
+- 👩🏻‍🎓 I'm a Process Engineer and I have a master degree in Control Engineering and Process Automation.
+- 💻 I'm a Full Stack Developer (javascript)
 - 🚀 I'm a skydiver girl
 - 🍕 I'm a Pizza lover!
 - 🌱 I’m currently learning everything 🤣
@@ -29,13 +30,16 @@ but, let me introduce myself...
 - 🔭 I just launched my first blog notes: [Sifri's Notes][link]
 
 - 📫 How to reach me **astrid.amg@gmail.com**
+
 - 👨‍💻 You can also check out my portfolio at [astrid](https://Sifrisky.github.io/astrid/)
 
 
 <h3 align="left"> ⚡ Connect with me </h3>
 <p align="left">
 <a href="https://twitter.com/_sifri_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="astrid-medina" height="30" width="40" /></a>
+ 
 <a href="https://linkedin.com/in/astrid-medina" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="astrid-medina" height="30" width="40" /></a>
+
 <a href="https://instagram.com/sifrisky_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="astrid-medina" height="30" width="40"  color="pink" /></a> </p>
 
 
