@@ -12,7 +12,7 @@
 
 
 
-Currenttly, I'm learning about Full Stack Java! 💗
+Currenttly, I'm learning about Full Stack **JAVA!** 💗 
 
 
 
