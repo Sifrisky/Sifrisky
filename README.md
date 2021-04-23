@@ -34,17 +34,15 @@ but, let me introduce myself...
 - 👨‍💻 You can also check out my portfolio at [astrid](https://Sifrisky.github.io/astrid/)
 
 
-<h3 align="left"> ⚡ Connect with me </h3>
-<p align="left">
+<h3 align="center"> ⚡ Connect with me </h3>
+<p align="center">
 <a href="https://twitter.com/_sifri_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="astrid-medina" height="30" width="40" /></a>
- 
-<a href="https://linkedin.com/in/astrid-medina" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="astrid-medina" height="30" width="40" /></a>
-
+ <a href="https://linkedin.com/in/astrid-medina" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="astrid-medina" height="30" width="40" /></a> 
 <a href="https://instagram.com/sifrisky_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="astrid-medina" height="30" width="40"  color="pink" /></a> </p>
 
 
 
-<h3 align="left"> 🛠️ Code language and tools:</h3> 
+<h3 align="center"> 🛠️ Code language and tools:</h3> 
 
 <img align="left" alt="Visual Studio Code" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="40" height="40"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
