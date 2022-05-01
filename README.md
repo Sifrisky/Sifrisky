@@ -3,7 +3,7 @@
 
  
 <h1 align="center">Hi humans! 👋 I'm Astrid </h1>
-<h3 align="center">A Girl who just Figure-Out that she wants to be a programmer! </h3>
+<h3 align="center">A Girl who just Figure-Out that she wants to be a Data Scientist! </h3>
 <br>
 
 
@@ -11,23 +11,21 @@
 <img align="right" src="docs/sifri.jpeg" alt="Sifrisky-Coding" width="250">
 
 
-
-Currenttly, I'm learning about Full Stack **JAVA!** 💗 
-
+Currenttly, I'm learning about Data Science & Phyton **JAVA!** 💗 
 
 
-but, let me introduce myself... 
+Let me introduce myself... 
 
 
 - 👩🏻‍🎓 I'm a Process Engineer and I have a master degree in Control Engineering and Process Automation.
-- 💻 I'm a Full Stack Developer (javascript)
-- 🚀 I'm a skydiver girl
+- 💻 I'm a Full Stack Developer (javascript & JAVA)
+- 🚀 I'm a Skydiver girl
 - 🍕 I'm a Pizza lover!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 💡 Idea is my Favorite word!
 - ⚡ Fun fact: **I think I am funny!**
-- 🔭 I just launched my first blog notes: [Sifri's Notes][link]
+- 🔭 I just launched my first blog notes: [Sifri's Notes][https://astridadriana.blogspot.com/]
 
 - 📫 How to reach me **astrid.amg@gmail.com**
 
@@ -72,5 +70,5 @@ but, let me introduce myself...
 <h3 align="center">I hope we can meet and work together! 🙌</h3>
  
 
- <h3 align="center"> 🔥 Last Project: http://astridtoys.herokuapp.com/ </h3>
+ <h3 align="center"> 🔥 Last Project: Under Construction </h3>
 
