@@ -24,7 +24,7 @@ Let me introduce myself...
 - 🌱 I’m currently learning everything 🤣
 - 💡 Idea is my Favorite word!
 - ⚡ Fun fact: **I think I am funny!**
-- 🔭 I just launched my first blog notes: [Sifri's Notes][(https://astridadriana.blogspot.com/)
+- 🔭 I just launched my first blog notes [Sifri's Notes](https://astridadriana.blogspot.com/)
 
 - 📫 How to reach me **astrid.amg@gmail.com**
 
