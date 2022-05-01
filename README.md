@@ -22,7 +22,6 @@ Let me introduce myself...
 - 🚀 I'm a Skydiver girl
 - 🍕 I'm a Pizza lover!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
 - 💡 Idea is my Favorite word!
 - ⚡ Fun fact: **I think I am funny!**
 - 🔭 I just launched my first blog notes: [Sifri's Notes][https://astridadriana.blogspot.com/]
