@@ -28,7 +28,7 @@ Let me introduce myself...
 
 - 📫 How to reach me **astrid.amg@gmail.com**
 
-- 👨‍💻 You can also check out my linkedin at [astrid](https://www.linkedin/in/astrid-medina)
+- 👨‍💻 You can also check out my linkedin at [astrid](https://www.linkedin.com/in/astrid-medina/)
 
 
 <h3 align="left"> ⚡ Connect with me </h3>
