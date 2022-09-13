@@ -3,7 +3,7 @@
 
  
 <h1 align="center">Hi humans! 👋 I'm Astrid </h1>
-<h3 align="center">A Girl who just Figure-Out that she wants to be a Data Scientist! </h3>
+<h3 align="center">A Girl who just Figure-Out that she wants to be .... ! </h3>
 <br>
 
 
@@ -17,18 +17,18 @@ Currenttly, I'm learning about Data Science & Phyton 💗
 Let me introduce myself... 
 
 
-- 👩🏻‍🎓 I'm a Process Engineer and I have a master degree in Control Engineering and Process Automation.
+- 💻 I'm a Project Lead with +10 years experience of project management
+- 👩🏻‍🎓 Chemical Engineer and I have a master degree in Control Engineering and Process Automation.
 - 💻 I'm a Full Stack Developer (javascript & JAVA)
 - 🚀 I'm a Skydiver girl
 - 🍕 I'm a Pizza lover!
 - 🌱 I’m currently learning everything 🤣
 - 💡 Idea is my Favorite word!
 - ⚡ Fun fact: **I think I am funny!**
-- 🔭 I just launched my first blog notes [Sifri's Notes](https://astridadriana.blogspot.com/)
 
 - 📫 How to reach me **astrid.amg@gmail.com**
 
-- 👨‍💻 You can also check out my portfolio at [astrid](https://Sifrisky.github.io/astrid/)
+- 👨‍💻 You can also check out my linkedin at [astrid](https://www.linkedin/in/astrid-medina)
 
 
 <h3 align="left"> ⚡ Connect with me </h3>
