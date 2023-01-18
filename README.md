@@ -11,16 +11,15 @@
 <img align="right" src="docs/sifri.jpeg" alt="Sifrisky-Coding" width="250">
 
 
-Currenttly, I'm learning about UX, UI, Data Science & Phyton 💗 
+Currenttly, I'm learning about UX|UI, Data Science & Phyton under construction💗 
 
 
 Let me introduce myself... 
 
 
-- 💻 I'm a Project Lead with +10 years of experience in project management
+- 💻 I'm a Project Lead with +12 years of experience in project management
 - 👩🏻‍🎓 Chemical Engineer and I have a master degree in Control Engineering and Process Automation.
 - 💻 I'm a Full Stack Developer jr. (javascript & JAVA)
-- 🚀 I'm a Skydiver girl
 - 🍕 I'm a Pizza lover!
 - 🌱 I’m currently learning everything 🤣
 - 💡 Idea is my Favorite word!
