@@ -11,7 +11,7 @@
 <img align="right" src="docs/sifri.jpeg" alt="Sifrisky-Coding" width="250">
 
 
-Currenttly, I'm learning about UX|UI, Data Science & Phyton under construction💗 
+Currently, I'm learning about UX|UI, Data Science & Phyton💗 
 
 
 Let me introduce myself... 
