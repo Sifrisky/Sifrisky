@@ -2,8 +2,8 @@
 ![](docs/banner1.png)
 
  
-<h1 align="center">Hi humans! 👋 I'm Astrid </h1>
-<h3 align="center">A Girl who just Figure-Out that she wants to be .... ! </h3>
+<h1 align="center">Hello! 👋 I'm Astrid </h1>
+<h3 align="center">A Girl who knows what she wants to be .... ! </h3>
 <br>
 
 
@@ -65,7 +65,7 @@ Let me introduce myself...
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sifrisky&show_icons=true&locale=en" alt="Sifrisky" /></p> -->
 
 
-<h3 align="center">I hope we can meet and work together! 🙌</h3>
+<h3 align="center">ALL IS WELL! 🙌</h3>
  
 
  <h3 align="center"> 🔥 Last Project: Under Construction </h3>
