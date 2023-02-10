@@ -3,7 +3,7 @@
 
  
 <h1 align="center">Hello! 👋 I'm Astrid </h1>
-<h3 align="center">A Girl who knows what she wants to be .... ! </h3>
+<h3 align="center">A Girl who just figure out what she wants to be .... ! </h3>
 <br>
 
 
@@ -11,17 +11,17 @@
 <img align="right" src="docs/sifri.jpeg" alt="Sifrisky-Coding" width="250">
 
 
-Currently, I'm learning about UX|UI, Data Science & Phyton💗 
+Currently, I'm learning about UX|UI, Business Analytics & Phyton💗 
 
 
 Let me introduce myself... 
 
 
 - 💻 I'm a Project Leader in technology projects with +12 years of experience in project management
-- 👩🏻‍🎓 Chemical Engineer and I have a master degree in Control Engineering and Process Automation.
-- 💻 I'm a Full Stack Developer jr. (javascript & JAVA)
+- 👩🏻‍🎓 Chemical Engineer and I have a master degree in Control Engineering and Process Automation
+- 💻 I studied Full Stack Developer (javascript & JAVA) but I'm not fan 🤣
 - 🍕 I'm a Pizza lover!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 
 - 💡 Idea is my Favorite word!
 - ⚡ Fun fact: **I think I am funny!**
 
@@ -39,7 +39,7 @@ Let me introduce myself...
 
 
 <h3 align="left"> 🛠️ Code language and tools:</h3> 
-
+//
 <img align="left" alt="Visual Studio Code" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="40" height="40"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -54,7 +54,7 @@ Let me introduce myself...
 <!--<img align="left" alt="photoshop" width="40" height="40" src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg"/> -->
 
 <br>
-<br>
+<br>//
 
 
 <p>&nbsp;<img align="center" alt="Sifrisky" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sifrisky&show_icons=true&locale=en&layout=compact"/></p>
