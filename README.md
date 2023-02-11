@@ -1,5 +1,5 @@
 
-![](docs/banner1.png)
+![](docs/BANNER.png)
 
  
 <h1 align="center">Hello! 👋 I'm Astrid </h1>
