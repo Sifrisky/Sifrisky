@@ -2,7 +2,7 @@
 ![](docs/BANNER.png)
 
  
-<h1 align="center">Hello! 👋 I'm Astrid </h1>
+<h1 align="center">Hi! 👋 I'm Astrid </h1>
 <h3 align="center">A Girl who just figure out what she wants to be .... ! </h3>
 <br>
 
