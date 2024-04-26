@@ -3,7 +3,7 @@
 
  
 <h1 align="center">Hi! 👋 I'm Astrid </h1>
-<h3 align="center">A Girl who just figure out what she wants to be .... ! </h3>
+<h3 align="center">A versatile Girl... ! </h3>
 <br>
 
 
@@ -11,14 +11,15 @@
 <img align="right" src="docs/sifri.jpeg" alt="Sifrisky-Coding" width="250">
 
 
-Currently, I'm learning about UX|UI, Business Analytics & Phyton💗 
+Currently, I'm learning about UX|UI & Data Science with Phyton & R 💗 
 
 
 Let me introduce myself... 
 
 
-- 💻 I'm a Project Leader in technology projects with +12 years of experience in project management
-- 👩🏻‍🎓 Chemical Engineer and I have a master degree in Control Engineering and Process Automation
+- 💻 I'm a Project Leader in technology projects with +10 years of experience leading teams and projects
+- 👩🏻‍🎓 Chemical Engineer
+- 👩🏻‍🎓 Master degree in Control Engineering and Process Automation
 - 💻 I studied Full Stack Developer (javascript & JAVA) but I'm not fan 🤣
 - 🍕 I'm a Pizza lover!
 - 🌱 I’m currently learning everything 
