@@ -24,7 +24,7 @@ Let me introduce myself...
 - 🍕 I'm a Pizza lover!
 - 🌱 I’m currently learning everything 
 - 💡 Idea is my Favorite word!
-- ⚡ Fun fact: **I think I am funny!**
+ /*- ⚡ Fun fact: **I think I am funny!*/
 
 - 📫 How to reach me **astrid.amg@gmail.com**
 
